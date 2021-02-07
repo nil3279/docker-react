@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           i was changed!
+           it is dual change for feature2!
         </p>
         <a
           className="App-link"
